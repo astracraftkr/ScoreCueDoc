@@ -1,23 +1,33 @@
+{% assign lang = page.lang | default: 'ko' %}
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: 'ko' }}">
+<html lang="{{ lang }}">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
 {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
+{% if page.alt %}<link rel="alternate" hreflang="{% if lang == 'ko' %}en{% else %}ko{% endif %}" href="{{ page.alt | relative_url }}">{% endif %}
 <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
 </head>
 <body>
 <header class="site">
-  <a class="home" href="{{ '/' | relative_url }}">ScoreCue 문서</a>
+  <a class="home" href="{{ '/' | relative_url }}">ScoreCue{% if lang == 'ko' %} 문서{% else %} Docs{% endif %}</a>
+  {% if page.alt %}
+  <a class="lang" href="{{ page.alt | relative_url }}">{% if lang == 'ko' %}English{% else %}한국어{% endif %}</a>
+  {% endif %}
 </header>
 
 <main>
   {% if page.title %}<h1>{{ page.title }}</h1>{% endif %}
   {% if page.effective %}
   <p class="meta">
+    {% if lang == 'ko' %}
     시행일: {{ page.effective }}{% if page.updated %} · 최종 수정: {{ page.updated }}{% endif %}<br>
-    ScoreCue · 개발자 Starman · 문의 <a href="mailto:starman65535@gmail.com">starman65535@gmail.com</a>
+    ScoreCue · 개발자 Starman · 문의 <a href="mailto:stellarvibelabs@gmail.com">stellarvibelabs@gmail.com</a>
+    {% else %}
+    Effective: {{ page.effective }}{% if page.updated %} · Last updated: {{ page.updated }}{% endif %}<br>
+    ScoreCue · Developer: Starman · Contact <a href="mailto:stellarvibelabs@gmail.com">stellarvibelabs@gmail.com</a>
+    {% endif %}
   </p>
   {% endif %}
 
@@ -25,6 +35,7 @@
 </main>
 
 <footer class="site">
+  {% if lang == 'ko' %}
   <p>
     <a href="{{ '/ko/terms/' | relative_url }}">이용약관</a> ·
     <a href="{{ '/ko/privacy/' | relative_url }}">개인정보처리방침</a> ·
@@ -32,6 +43,15 @@
     <a href="{{ '/ko/eula/' | relative_url }}">사용권 계약</a> ·
     <a href="{{ '/ko/licenses/' | relative_url }}">오픈소스 고지</a>
   </p>
+  {% else %}
+  <p>
+    <a href="{{ '/en/terms/' | relative_url }}">Terms of Service</a> ·
+    <a href="{{ '/en/privacy/' | relative_url }}">Privacy Policy</a> ·
+    <a href="{{ '/en/refund/' | relative_url }}">Payments &amp; Refunds</a> ·
+    <a href="{{ '/en/eula/' | relative_url }}">License Agreement</a> ·
+    <a href="{{ '/en/licenses/' | relative_url }}">Open Source Notices</a>
+  </p>
+  {% endif %}
   <p class="copy">© {{ 'now' | date: "%Y" }} Starman. ScoreCue.</p>
 </footer>
 </body>

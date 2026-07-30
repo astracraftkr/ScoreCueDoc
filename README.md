@@ -8,13 +8,10 @@ GitHub Pages(Jekyll)로 서비스하며, 앱 스토어와 RevenueCat 페이월�
 ## 구성
 
 ```
-index.md              언어·문서 허브
-ko/terms.md           이용약관              → /ko/terms/
-ko/privacy.md         개인정보처리방침       → /ko/privacy/
-ko/refund.md          결제·환불 정책        → /ko/refund/
-ko/eula.md            최종 사용자 사용권 계약 → /ko/eula/
-ko/licenses.md        오픈소스 라이선스 고지  → /ko/licenses/
-_layouts/default.html 공통 레이아웃
+index.md              언어·문서 허브 (한/영 양쪽 링크)
+ko/{terms,privacy,refund,eula,licenses}.md   한국어 (정본)  → /ko/…/
+en/{terms,privacy,refund,eula,licenses}.md   English 번역   → /en/…/
+_layouts/default.html 공통 레이아웃 (page.lang으로 헤더·푸터 언어 전환)
 assets/style.css      스타일 (라이트/다크 대응)
 _config.yml           Jekyll 설정 (baseurl: /ScoreCueDoc)
 ```
@@ -22,18 +19,26 @@ _config.yml           Jekyll 설정 (baseurl: /ScoreCueDoc)
 각 페이지는 front matter의 `permalink`로 URL을 고정한다. **스토어·RevenueCat에 등록한 뒤에는 permalink를
 바꾸지 말 것** — 링크가 깨진다. 파일 이름을 바꿔도 permalink가 그대로면 URL은 유지된다.
 
+front matter 필드: `lang`(ko/en — 레이아웃의 언어 전환 기준), `alt`(반대 언어 페이지 경로 — 헤더의 언어
+전환 링크와 `hreflang`에 쓰인다), `effective`(시행일), `updated`(최종 수정일, 선택).
+
+**한국어판이 정본이다.** 영문판 각 문서 상단에 그 사실과 "불일치 시 한국어판 우선"을 명시해 두었다.
+내용을 고칠 때는 반드시 양쪽을 함께 고칠 것 — 한쪽만 고치면 정본과 번역이 어긋난다.
+
 ## 공개 URL
 
 GitHub Pages 설정: Settings → Pages → Source = `main` 브랜치 / 루트.
 
-| 문서 | URL |
-|---|---|
-| 허브 | `https://starman902.github.io/ScoreCueDoc/` |
-| 이용약관 | `https://starman902.github.io/ScoreCueDoc/ko/terms/` |
-| 개인정보처리방침 | `https://starman902.github.io/ScoreCueDoc/ko/privacy/` |
-| 결제·환불 | `https://starman902.github.io/ScoreCueDoc/ko/refund/` |
-| EULA | `https://starman902.github.io/ScoreCueDoc/ko/eula/` |
-| 오픈소스 고지 | `https://starman902.github.io/ScoreCueDoc/ko/licenses/` |
+기준 URL: `https://starman902.github.io/ScoreCueDoc/`
+
+| 문서 | 한국어 | English |
+|---|---|---|
+| 허브 | `/` | `/` |
+| 이용약관 | `/ko/terms/` | `/en/terms/` |
+| 개인정보처리방침 | `/ko/privacy/` | `/en/privacy/` |
+| 결제·환불 | `/ko/refund/` | `/en/refund/` |
+| EULA | `/ko/eula/` | `/en/eula/` |
+| 오픈소스 고지 | `/ko/licenses/` | `/en/licenses/` |
 
 이 URL을 넣어야 하는 곳:
 
@@ -50,6 +55,9 @@ GitHub Pages 설정: Settings → Pages → Source = `main` 브랜치 / 루트.
 - 약관·EULA·환불 정책은 법률 전문가의 검토를 받지 않은 초안이다. 유료 판매 개시 전에 검토를 권한다.
 - **사업자 정보 미기재.** 개인 개발자 기준으로 개발자명·연락처만 표기했다. 사업자 등록 후 유료 판매를
   한다면 「전자상거래법」상 상호·대표자·사업자등록번호·주소·통신판매업 신고번호 표기가 필요할 수 있다.
+- **개발자 표기가 "Starman"으로 되어 있다.** 대외 연락처는 공식 계정(`stellarvibelabs@gmail.com`)으로
+  통일했으나, 문서상 개발자·퍼블리셔 이름은 그대로다. 스토어 퍼블리셔명을 "Stellar Vibe Labs" 등으로
+  쓴다면 약관·EULA의 당사자 표기도 같은 이름으로 맞춰야 한다(양 언어 5개 문서).
 - **만 14세 미만 계정 금지**로 작성했다(개인정보보호법상 법정대리인 동의 절차를 두지 않는 선택).
   아동 대상 정책을 바꾸려면 약관 제4조·방침 7항을 함께 고쳐야 한다.
 - 개인정보처리방침의 보관 기간 중 Analytics 14개월·Crashlytics 90일은 각 서비스의 기본 설정값이다.

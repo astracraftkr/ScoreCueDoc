@@ -4,6 +4,7 @@ permalink: /ko/terms/
 effective: 2026-07-30
 description: ScoreCue 악보 뷰어 앱의 이용약관
 lang: ko
+alt: /en/terms/
 ---
 
 ## 제1조 (목적)

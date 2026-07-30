@@ -29,6 +29,10 @@ body {
 a { color: var(--accent); }
 
 header.site {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
   padding: 1.25rem 0 0.5rem;
   border-bottom: 1px solid var(--line);
   margin-bottom: 2rem;
@@ -37,6 +41,10 @@ header.site .home {
   font-weight: 700;
   text-decoration: none;
   color: var(--fg);
+}
+header.site .lang {
+  font-size: 0.9rem;
+  white-space: nowrap;
 }
 
 h1 { font-size: 1.6rem; margin: 0.5rem 0 0.25rem; line-height: 1.35; }

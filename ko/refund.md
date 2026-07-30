@@ -4,6 +4,7 @@ permalink: /ko/refund/
 effective: 2026-07-30
 description: ScoreCue의 상품 구성, 구독 해지 방법, 환불 요청 절차
 lang: ko
+alt: /en/refund/
 ---
 
 ## 1. 상품 구성
@@ -73,7 +74,7 @@ lang: ko
 2. **구매 복원** — 앱 설정 화면의 "구매 복원"을 실행합니다. 기기를 바꾸거나 앱을 재설치한 경우에도
    이 방법으로 권한을 되찾습니다.
 3. **네트워크 확인 후 앱 재시작**.
-4. 그래도 열리지 않으면 <a href="mailto:starman65535@gmail.com">starman65535@gmail.com</a>으로
+4. 그래도 열리지 않으면 <a href="mailto:stellarvibelabs@gmail.com">stellarvibelabs@gmail.com</a>으로
    **구매한 스토어, 상품명, 결제 일시, 로그인에 사용한 이메일**을 알려 주십시오. 확인 후 권한을
    수동으로 반영하거나 스토어 환불 절차를 안내합니다.
 
@@ -90,4 +91,4 @@ lang: ko
 
 ## 8. 문의
 
-<a href="mailto:starman65535@gmail.com">starman65535@gmail.com</a>
+<a href="mailto:stellarvibelabs@gmail.com">stellarvibelabs@gmail.com</a>
