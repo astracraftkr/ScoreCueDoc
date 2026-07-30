@@ -16,27 +16,29 @@ alt: /ko/refund/
 
 | Product | Type | What it unlocks |
 |---|---|---|
-| Pro Lifetime | One-time purchase (no expiry) | Unlimited tempo sync, A-B loop, annotated PDF export |
-| Pro Yearly | Auto-renewing annual subscription | All of the above **+ creating and running a band** |
-| Band | Auto-renewing annual subscription | Creating and running a band (posting events and announcements) |
+| Pro Lifetime | One-time purchase (no expiry) | Unlimited tempo sync, A-B loop, annotated PDF export<br>**+ opening ensembles and running a band for one year from purchase** |
+| Pro Yearly | Auto-renewing annual subscription | All of the above **+ opening ensembles and running a band for as long as the subscription is active** |
+| Band | Auto-renewing annual subscription | Opening ensembles, creating and running a band (posting events and announcements) |
 
 </div>
 
 - Prices are those shown on the App's purchase screen and in each store. Displayed amounts may differ by
   country under each store's pricing policy.
+- **Joining an ensemble is always free.** Payment is only required to *open* a session, so one purchase
+  lets every other member join the ensembles that person hosts.
 - **The Pro Yearly subscription includes the band entitlement**, so subscribers do not need to buy the
   Band product separately.
-- **The Pro Lifetime product does not include the band entitlement. A Lifetime purchaser who wants to
-  create a band and act as its leader or administrator must purchase the Band product separately.**
-  Running a band incurs ongoing server costs that a single payment cannot fund indefinitely, so the Band
-  product is a much cheaper separate subscription covering only that recurring cost. **Joining** a band
-  requires no purchase at all.
-- **If you cancel the Yearly subscription and move to the Lifetime product, the band entitlement ends with
-  it.** Purchase the Band product to keep running a band. Band data is not deleted and becomes available
-  again immediately upon purchase.
+- **The Pro Lifetime product includes the band entitlement for one year from the date of purchase.**
+  After that year, opening ensembles or running a band requires purchasing the Band product separately.
+  The band entitlement incurs ongoing server costs that a single payment cannot fund indefinitely, so the
+  Band product is a much cheaper separate subscription covering only that recurring cost.
+- **If you cancel the Yearly subscription and move to the Lifetime product**, the band entitlement ends
+  once the Lifetime product's one-year period has elapsed. Purchase the Band product to continue. Band
+  data is not deleted and becomes available again immediately upon purchase.
 - **There is no free trial period.** Instead, viewing scores, annotating, the metronome, and joining
   ensemble sessions remain usable without signing in, and tempo sync playback is free for 3 pieces
-  (4 if you belong to a band).
+  (4 if you belong to a band). Signed-in free users can also **open ensembles for 30 days from the first
+  session they open** (the 3-piece limit still applies).
 - Paid entitlements are granted **to your account**. There is no device limit, and a purchase on either
   Android or iOS unlocks the App on the other for the same signed-in account.
 

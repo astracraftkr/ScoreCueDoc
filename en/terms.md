@@ -31,7 +31,8 @@ and each user.
    and shared setlists.
 8. **Paid entitlements** — rights granted to a user's account through purchase, in two kinds:
    - **Pro entitlement** — on-device features (unlimited tempo sync, A-B loop, annotated PDF export)
-   - **Band entitlement** — creating and running a band (posting events and announcements)
+   - **Band entitlement** — **hosting (opening) ensemble sessions**, and creating and running a band
+     (posting events and announcements)
 
 ## 3. Publication and Changes to These Terms
 
@@ -44,7 +45,8 @@ and each user.
 
 ## 4. Accounts
 
-1. Viewing scores, annotating, the metronome, and ensemble sessions can be used **without signing in**.
+1. Viewing scores, annotating, the metronome, and **joining** ensemble sessions can be used
+   **without signing in**. **Opening** an ensemble session requires sign-in (Article 5).
 2. An account is required for: purchasing or restoring paid entitlements, using paid features, and
    the community (band) features. Because the server must be able to verify entitlements,
    **paid features do not unlock while signed out.**
@@ -62,16 +64,24 @@ and each user.
 1. Provided free of charge:
    - Viewing scores, annotating (drawing and saving), the metronome
    - Creating and saving timings (no limit on the number)
-   - Hosting and joining ensemble sessions
+   - **Joining** an ensemble session — no sign-in required and no limit on how often
    - Joining a band; viewing rosters, events, announcements, and shared setlists; responding to
      events; participating in availability polls
    - **Tempo sync playback for 3 pieces** (4 for members of a band)
 2. Requires a paid entitlement:
    - Unlimited tempo sync playback, A-B loop, annotated PDF export (Pro entitlement)
-   - Creating and running a band (Band entitlement)
-3. A free playback slot is **taken when playback of a piece begins**, and a piece that holds a slot
+   - **Opening (hosting) an ensemble session**, and creating and running a band (Band entitlement)
+3. **Opening an ensemble session** requires sign-in and is provided as follows.
+   - Signed-in free users: **30 days from the first session you open** (the 3-piece tempo sync limit
+     still applies)
+   - Pro Lifetime purchasers: **one year from the date of purchase**
+   - Holders of the Band entitlement: no limit
+   - Within a band, **any member may start a band ensemble as long as the band's owner holds the Band
+     entitlement.** If the owner's entitlement expires, starting a band ensemble is restricted.
+   - **Joining** an ensemble is always free, regardless of the above.
+4. A free playback slot is **taken when playback of a piece begins**, and a piece that holds a slot
    may be played any number of times. Each slot may be swapped to a different piece **once**.
-4. The Developer may change the composition of the service and the boundary between free and paid
+5. The Developer may change the composition of the service and the boundary between free and paid
    features. Changes unfavorable to users are published in advance under Article 3.
 
 ## 6. Paid Services and Payment
@@ -83,7 +93,7 @@ each store.
 
 | Product | Type | Pro entitlement | Band entitlement |
 |---|---|---|---|
-| Pro Lifetime | One-time purchase (no expiry) | ✓ | ✗ |
+| Pro Lifetime | One-time purchase (no expiry) | ✓ | **One year from purchase** |
 | Pro Yearly | Auto-renewing annual subscription | ✓ | **✓ included** |
 | Band | Auto-renewing annual subscription | ✗ | ✓ |
 
@@ -93,14 +103,16 @@ each store.
    collect or store payment credentials such as card numbers.
 2. **The Pro Yearly subscription includes the Band entitlement.** Subscribers do not need to purchase
    the Band product separately.
-3. **The Pro Lifetime product does not include the Band entitlement.** Accordingly, **a user who has
-   purchased the Lifetime product must purchase the Band product separately in order to create a band
-   and act as its leader or administrator.** Running a band incurs ongoing server costs that a single
-   payment cannot fund indefinitely; the Band product is a smaller product covering only that
-   recurring cost. **Joining** a band requires no purchase at all (Articles 5 and 8).
+3. **The Pro Lifetime product includes the Band entitlement for one year from the date of purchase,
+   and not beyond it.** Accordingly, **after that year, opening ensemble sessions or running a band
+   requires purchasing the Band product separately.** The Band entitlement incurs ongoing server costs
+   that a single payment cannot fund indefinitely; the Band product is a smaller product covering only
+   that recurring cost. **Joining** a band, and **joining** an ensemble, require no purchase at all
+   (Articles 5 and 8).
 4. **If a user cancels the Pro Yearly subscription and moves to the Lifetime product, the Band
-   entitlement ends with the subscription.** The Band product must be purchased to continue running a
-   band. Band data is not deleted in this case and becomes available again immediately upon purchase.
+   entitlement ends once the Lifetime product's one-year period has elapsed.** The Band product must
+   be purchased to keep opening ensemble sessions and running a band. Band data is not deleted in this
+   case and becomes available again immediately upon purchase.
 5. The Band product is an add-on for users who already hold the Pro entitlement. Where a user holds no
    Pro entitlement, the App presents the Pro products first.
 6. Subscriptions renew automatically at the end of each period unless cancelled, and renewal is
@@ -133,8 +145,9 @@ each store.
    you post, and similar) visible to the other members of that band.** The exact scope is described in
    the [Privacy Policy]({{ '/en/privacy/' | relative_url }}).
 3. Joining a band and viewing or responding within it is free and requires no entitlement.
-4. If a band owner's Band entitlement expires, creating and operating features may be restricted, but
-   band data already stored is not deleted arbitrarily, as provided in Article 9.
+4. If a band owner's Band entitlement expires, the band's operating features and **the ability to start
+   a band ensemble** are restricted, but band data already stored is not deleted arbitrarily, as
+   provided in Article 9. It is restored immediately if the owner purchases again.
 
 ## 9. Retention of User Data
 
