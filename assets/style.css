@@ -1,0 +1,99 @@
+:root {
+  color-scheme: light dark;
+  --fg: #1b1b1f;
+  --muted: #5d5d68;
+  --line: rgba(128, 128, 128, 0.4);
+  --accent: #2b5fd9;
+  --bg-soft: rgba(128, 128, 128, 0.1);
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --fg: #e6e6ea;
+    --muted: #a2a2ad;
+    --accent: #8fb0ff;
+  }
+}
+
+* { box-sizing: border-box; }
+
+body {
+  font-family: "Apple SD Gothic Neo", "Malgun Gothic", "Noto Sans KR", system-ui, sans-serif;
+  max-width: 46rem;
+  margin: 0 auto;
+  padding: 0 1.25rem 4rem;
+  line-height: 1.75;
+  word-break: keep-all;
+  color: var(--fg);
+}
+
+a { color: var(--accent); }
+
+header.site {
+  padding: 1.25rem 0 0.5rem;
+  border-bottom: 1px solid var(--line);
+  margin-bottom: 2rem;
+}
+header.site .home {
+  font-weight: 700;
+  text-decoration: none;
+  color: var(--fg);
+}
+
+h1 { font-size: 1.6rem; margin: 0.5rem 0 0.25rem; line-height: 1.35; }
+h2 {
+  font-size: 1.18rem;
+  margin-top: 2.4rem;
+  border-bottom: 1px solid var(--line);
+  padding-bottom: 0.3rem;
+}
+h3 { font-size: 1.02rem; margin-top: 1.5rem; }
+
+p.meta {
+  color: var(--muted);
+  font-size: 0.9rem;
+  margin-top: 0.25rem;
+}
+
+ul, ol { padding-left: 1.3rem; }
+li + li { margin-top: 0.2rem; }
+
+/* 넓은 표는 페이지가 아니라 표 자신이 스크롤된다. */
+.table-wrap { overflow-x: auto; }
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 0.9rem 0;
+  font-size: 0.93rem;
+}
+th, td {
+  border: 1px solid var(--line);
+  padding: 0.45rem 0.6rem;
+  text-align: left;
+  vertical-align: top;
+}
+th { background: var(--bg-soft); }
+
+code {
+  font-size: 0.9em;
+  background: var(--bg-soft);
+  padding: 0.1rem 0.3rem;
+  border-radius: 0.25rem;
+}
+
+blockquote {
+  margin: 1.2rem 0;
+  padding: 0.6rem 1rem;
+  border-left: 3px solid var(--accent);
+  background: var(--bg-soft);
+}
+blockquote p { margin: 0.3rem 0; }
+
+hr { margin: 2.5rem 0; border: none; border-top: 1px solid var(--line); }
+
+footer.site {
+  margin-top: 3.5rem;
+  padding-top: 1.2rem;
+  border-top: 1px solid var(--line);
+  font-size: 0.9rem;
+}
+footer.site .copy { color: var(--muted); }
