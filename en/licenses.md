@@ -2,6 +2,7 @@
 title: ScoreCue Open Source Notices
 permalink: /en/licenses/
 effective: 2026-07-30
+updated: 2026-08-14
 description: Third-party open source components included in ScoreCue and their licenses
 lang: en
 alt: /ko/licenses/
@@ -69,4 +70,4 @@ in each project's repository.
 ## Contact
 
 If you find an error or omission in this list, please let us know:
-<a href="mailto:stellarvibelabs@gmail.com">stellarvibelabs@gmail.com</a>
+<a href="mailto:astracraft.kr@gmail.com">astracraft.kr@gmail.com</a>

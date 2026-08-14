@@ -2,6 +2,7 @@
 title: ScoreCue Privacy Policy
 permalink: /en/privacy/
 effective: 2026-07-30
+updated: 2026-08-14
 description: What ScoreCue collects, where it is stored, and how to delete it
 lang: en
 alt: /ko/privacy/
@@ -173,7 +174,7 @@ information.
   your server-stored data — account information, entitlement status, your member records in every band,
   and the attendance responses and poll votes you authored. **If you own a band, you must first delete it
   or transfer ownership** so that the other members are not left stranded.
-- **By email**: write to <a href="mailto:stellarvibelabs@gmail.com">stellarvibelabs@gmail.com</a>;
+- **By email**: write to <a href="mailto:astracraft.kr@gmail.com">astracraft.kr@gmail.com</a>;
   requests are handled within 30 days of receipt.
 - **Device data**: uninstalling the App or clearing its data in your OS settings removes all on-device data.
 - **Purchase records**: payment records retained by the stores and by RevenueCat for transaction
@@ -201,4 +202,4 @@ materially affect users are published at least 30 days before they take effect.
 ## 9. Contact
 
 Privacy enquiries and access or deletion requests:
-<a href="mailto:stellarvibelabs@gmail.com">stellarvibelabs@gmail.com</a>
+<a href="mailto:astracraft.kr@gmail.com">astracraft.kr@gmail.com</a>

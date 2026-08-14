@@ -2,6 +2,7 @@
 title: ScoreCue 개인정보처리방침
 permalink: /ko/privacy/
 effective: 2026-07-30
+updated: 2026-08-14
 description: ScoreCue가 수집하는 정보, 저장 위치, 삭제 방법
 lang: ko
 alt: /en/privacy/
@@ -160,7 +161,7 @@ ID로 사용)와 스토어의 구매·구독 내역 및 영수증 정보가 전�
   삭제됩니다. 삭제되는 범위는 계정 정보, 유료 권한 상태, 모든 밴드에서의 본인 멤버 기록과 본인이
   작성한 참석 응답·투표입니다. **밴드를 소유하고 있는 경우, 다른 멤버가 남겨지지 않도록 먼저 밴드를
   삭제하거나 소유권을 넘겨야 합니다.**
-- **이메일 요청**: <a href="mailto:stellarvibelabs@gmail.com">stellarvibelabs@gmail.com</a>으로 요청하시면
+- **이메일 요청**: <a href="mailto:astracraft.kr@gmail.com">astracraft.kr@gmail.com</a>으로 요청하시면
   접수 후 30일 이내에 처리합니다.
 - **기기 데이터 삭제**: 앱을 삭제하거나 운영체제 설정에서 앱 데이터를 삭제하면 기기 내 데이터가 모두
   삭제됩니다.
@@ -188,4 +189,4 @@ ID로 사용)와 스토어의 구매·구독 내역 및 영수증 정보가 전�
 ## 9. 문의
 
 개인정보 관련 문의 및 열람·삭제 요청:
-<a href="mailto:stellarvibelabs@gmail.com">stellarvibelabs@gmail.com</a>
+<a href="mailto:astracraft.kr@gmail.com">astracraft.kr@gmail.com</a>

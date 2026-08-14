@@ -34,4 +34,4 @@ permalink: /
 
 ## 문의 · Contact
 
-<a href="mailto:stellarvibelabs@gmail.com">stellarvibelabs@gmail.com</a>
+<a href="mailto:astracraft.kr@gmail.com">astracraft.kr@gmail.com</a>

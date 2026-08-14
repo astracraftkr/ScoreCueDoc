@@ -2,6 +2,7 @@
 title: ScoreCue 오픈소스 라이선스 고지
 permalink: /ko/licenses/
 effective: 2026-07-30
+updated: 2026-08-14
 description: ScoreCue에 포함된 제3자 오픈소스 구성요소와 라이선스 목록
 lang: ko
 alt: /en/licenses/
@@ -68,4 +69,4 @@ ScoreCue는 아래 오픈소스 및 제3자 구성요소를 사용합니다. 각
 ## 문의
 
 목록에 오류나 누락이 있으면 알려 주십시오:
-<a href="mailto:stellarvibelabs@gmail.com">stellarvibelabs@gmail.com</a>
+<a href="mailto:astracraft.kr@gmail.com">astracraft.kr@gmail.com</a>

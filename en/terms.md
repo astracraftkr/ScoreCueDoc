@@ -2,6 +2,7 @@
 title: ScoreCue Terms of Service
 permalink: /en/terms/
 effective: 2026-07-30
+updated: 2026-08-14
 description: Terms of service for the ScoreCue sheet music app
 lang: en
 alt: /ko/terms/
@@ -12,9 +13,20 @@ alt: /ko/terms/
 
 ## 1. Purpose
 
-These Terms govern the use of **ScoreCue** (the "App"), a sheet music app provided by the developer
-Starman (the "Developer"), and set out the rights, obligations, and responsibilities of the Developer
-and each user.
+These Terms govern the use of **ScoreCue** (the "App"), a sheet music app provided by **Astra Craft**
+(the "Developer"), and set out the rights, obligations, and responsibilities of the Developer and
+each user.
+
+### Business information
+
+| | |
+|---|---|
+| Business name | Astra Craft |
+| Representative | Park Hyojin (박효진) |
+| Address | Keunmal-gil, Osan-si, Gyeonggi-do, Republic of Korea |
+| Business registration no. | 032-08-03433 |
+| Mail-order sales registration no. | 2026-경기오산-0717 (filed with Osan-si, Gyeonggi-do) |
+| Email | <a href="mailto:astracraft.kr@gmail.com">astracraft.kr@gmail.com</a> |
 
 ## 2. Definitions
 
@@ -80,7 +92,8 @@ and each user.
      entitlement.** If the owner's entitlement expires, starting a band ensemble is restricted.
    - **Joining** an ensemble is always free, regardless of the above.
 4. A free playback slot is **taken when playback of a piece begins**, and a piece that holds a slot
-   may be played any number of times. Each slot may be swapped to a different piece **once**.
+   may be played any number of times. **A slot that has been taken cannot be swapped to another
+   piece.** Deleting the score returns its slot.
 5. The Developer may change the composition of the service and the boundary between free and paid
    features. Changes unfavorable to users are published in advance under Article 3.
 

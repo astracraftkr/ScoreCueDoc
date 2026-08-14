@@ -2,6 +2,7 @@
 title: ScoreCue End User License Agreement (EULA)
 permalink: /en/eula/
 effective: 2026-07-30
+updated: 2026-08-14
 description: Scope and limits of the license to use the ScoreCue software
 lang: en
 alt: /ko/eula/
@@ -10,7 +11,7 @@ alt: /ko/eula/
 > This is a translation provided for convenience. The [Korean version]({{ '/ko/eula/' | relative_url }})
 > is the authoritative text; if the two differ, the Korean version prevails.
 
-This End User License Agreement (this "Agreement") is between the developer Starman (the "Developer")
+This End User License Agreement (this "Agreement") is between **Astra Craft** (the "Developer")
 and the user who installs or uses **ScoreCue** (the "Software"). Installing or using the Software
 constitutes acceptance of this Agreement. If you do not accept it, do not install or use the Software.
 
@@ -104,7 +105,7 @@ If you obtained the Software from the Apple App Store, the following also applie
    relevant jurisdictions and that you are not located in a prohibited country.
 7. **Apple and its subsidiaries are third-party beneficiaries of this Agreement**, and upon your acceptance
    of its terms Apple has the right to enforce this Agreement against you directly.
-8. Contact: <a href="mailto:stellarvibelabs@gmail.com">stellarvibelabs@gmail.com</a>
+8. Contact: <a href="mailto:astracraft.kr@gmail.com">astracraft.kr@gmail.com</a>
 
 ## 11. Google Play
 

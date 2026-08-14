@@ -105,3 +105,4 @@ footer.site {
   font-size: 0.9rem;
 }
 footer.site .copy { color: var(--muted); }
+footer.site .biz { color: var(--muted); font-size: 0.85rem; line-height: 1.6; }
