@@ -26,6 +26,7 @@ each user.
 | Address | Keunmal-gil, Osan-si, Gyeonggi-do, Republic of Korea |
 | Business registration no. | 032-08-03433 |
 | Mail-order sales registration no. | 2026-경기오산-0717 (filed with Osan-si, Gyeonggi-do) |
+| Phone | +82 10-2501-7357 |
 | Email | <a href="mailto:astracraft.kr@gmail.com">astracraft.kr@gmail.com</a> |
 
 ## 2. Definitions
