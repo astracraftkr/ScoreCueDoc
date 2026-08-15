@@ -3,7 +3,7 @@
 ScoreCue(밴드 연주자용 악보 뷰어, Android + iOS)의 **외부 공개용 문서 저장소**입니다.
 GitHub Pages(Jekyll)로 서비스하며, 앱 스토어와 RevenueCat 페이월이 참조하는 약관·정책 URL의 출처입니다.
 
-앱 코드 저장소: [starman902/ScoreCue](https://github.com/starman902/ScoreCue) (Android/iOS 서브모듈)
+앱 코드 저장소: [astracraftkr/ScoreCue](https://github.com/astracraftkr/ScoreCue) (Android/iOS 서브모듈)
 
 ## 구성
 
@@ -29,7 +29,7 @@ front matter 필드: `lang`(ko/en — 레이아웃의 언어 전환 기준), `al
 
 GitHub Pages 설정: Settings → Pages → Source = `main` 브랜치 / 루트.
 
-기준 URL: `https://starman902.github.io/ScoreCueDoc/`
+기준 URL: `https://astracraftkr.github.io/ScoreCueDoc/`
 
 | 문서 | 한국어 | English |
 |---|---|---|
@@ -50,7 +50,7 @@ GitHub Pages 설정: Settings → Pages → Source = `main` 브랜치 / 루트.
 
 ## 확인이 필요한 사항 (초안 상태)
 
-문서 내용은 2026-07-30 시점의 실제 앱 동작(Android `main`)과 [ScoreCue/doc/pricing.md](https://github.com/starman902/ScoreCue/blob/main/doc/pricing.md)의
+문서 내용은 2026-07-30 시점의 실제 앱 동작(Android `main`)과 [ScoreCue/doc/pricing.md](https://github.com/astracraftkr/ScoreCue/blob/main/doc/pricing.md)의
 확정 정책을 근거로 작성했다. 다음은 **법률 검토나 사업자 정보 확정이 필요**한 부분이다.
 
 - 약관·EULA·환불 정책은 법률 전문가의 검토를 받지 않은 초안이다. 유료 판매 개시 전에 검토를 권한다.
@@ -81,7 +81,7 @@ Ruby/Jekyll이 없으면 GitHub Pages에 push해서 확인해도 된다(빌드 1
 ## 문서 갱신 규칙
 
 - 앱의 데이터 수집·요금·권한 정책이 바뀌면 **같은 커밋 흐름에서 이 저장소도 갱신**한다.
-  특히 [pricing.md](https://github.com/starman902/ScoreCue/blob/main/doc/pricing.md) 변경은
+  특히 [pricing.md](https://github.com/astracraftkr/ScoreCue/blob/main/doc/pricing.md) 변경은
   `ko/terms.md`·`ko/refund.md`에 직접 영향을 준다.
 - 이용자에게 불리한 변경은 시행일 전 고지 기간을 둔다(약관 제3조: 7일, 중대한 변경 30일 / 방침: 30일).
 - 각 문서 front matter의 `effective`(시행일)와 `updated`(최종 수정일)를 갱신한다.
