@@ -16,6 +16,7 @@ permalink: /
 - [결제·환불 정책]({{ '/ko/refund/' | relative_url }})
 - [최종 사용자 사용권 계약 (EULA)]({{ '/ko/eula/' | relative_url }})
 - [오픈소스 라이선스 고지]({{ '/ko/licenses/' | relative_url }})
+- [사업자 정보]({{ '/ko/business/' | relative_url }})
 
 ## Terms and Policies (English)
 
@@ -24,6 +25,7 @@ permalink: /
 - [Payment & Refund Policy]({{ '/en/refund/' | relative_url }})
 - [End User License Agreement (EULA)]({{ '/en/eula/' | relative_url }})
 - [Open Source Notices]({{ '/en/licenses/' | relative_url }})
+- [Business Information]({{ '/en/business/' | relative_url }})
 
 한국어판이 정본입니다. 영문판은 편의를 위한 번역이며, 두 판의 내용이 다를 경우 한국어판이 우선합니다.
 *The Korean version is authoritative; the English version is a convenience translation.*
