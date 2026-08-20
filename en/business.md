@@ -22,7 +22,7 @@ Business information disclosed under the Korean Act on Consumer Protection in El
 | Mail-order sales registration no. | 2026-경기오산-0717 |
 | Filed with | Osan-si, Gyeonggi-do |
 | Phone | <a href="tel:+8250219322092">0502-1932-2092</a> (Korea) |
-| Email | <a href="mailto:astracraft.kr@gmail.com">astracraft.kr@gmail.com</a> |
+| Email | <a href="mailto:support@astracraft.kr">support@astracraft.kr</a> |
 
 ## Customer support
 

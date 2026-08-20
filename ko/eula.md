@@ -99,7 +99,7 @@ alt: /en/eula/
 6. 이용자는 미국 및 관련 국가의 수출 관리 법령을 준수하며, 금지된 국가에 소재하지 않음을 진술합니다.
 7. **Apple과 그 자회사는 본 계약의 제3수익자(third-party beneficiary)이며**, 이용자가 본 계약의
    조건에 동의함으로써 Apple은 본 계약을 이용자에게 직접 집행할 권리를 가집니다.
-8. 문의 창구: <a href="mailto:astracraft.kr@gmail.com">astracraft.kr@gmail.com</a>
+8. 문의 창구: <a href="mailto:support@astracraft.kr">support@astracraft.kr</a>
 
 ## 11. Google Play를 통해 제공되는 경우
 

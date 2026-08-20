@@ -69,4 +69,4 @@ ScoreCue는 아래 오픈소스 및 제3자 구성요소를 사용합니다. 각
 ## 문의
 
 목록에 오류나 누락이 있으면 알려 주십시오:
-<a href="mailto:astracraft.kr@gmail.com">astracraft.kr@gmail.com</a>
+<a href="mailto:support@astracraft.kr">support@astracraft.kr</a>

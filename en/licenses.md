@@ -70,4 +70,4 @@ in each project's repository.
 ## Contact
 
 If you find an error or omission in this list, please let us know:
-<a href="mailto:astracraft.kr@gmail.com">astracraft.kr@gmail.com</a>
+<a href="mailto:support@astracraft.kr">support@astracraft.kr</a>

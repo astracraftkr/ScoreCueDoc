@@ -22,7 +22,7 @@ alt: /en/terms/
 | 사업장 주소 | 경기도 오산시 큰말길 |
 | 사업자등록번호 | 032-08-03433 |
 | 통신판매업 신고번호 | 2026-경기오산-0717 (신고기관: 경기도 오산시) |
-| 이메일 | <a href="mailto:astracraft.kr@gmail.com">astracraft.kr@gmail.com</a> |
+| 이메일 | <a href="mailto:support@astracraft.kr">support@astracraft.kr</a> |
 
 ## 제2조 (정의)
 

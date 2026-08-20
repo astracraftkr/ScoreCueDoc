@@ -87,7 +87,7 @@ check in this order.
    recover entitlements after changing devices or reinstalling.
 3. **Check your network connection and restart the App.**
 4. If it still does not unlock, email
-   <a href="mailto:astracraft.kr@gmail.com">astracraft.kr@gmail.com</a> with **the store you purchased
+   <a href="mailto:support@astracraft.kr">support@astracraft.kr</a> with **the store you purchased
    in, the product name, the date and time of payment, and the email address you signed in with.** We will
    verify and either apply the entitlement manually or guide you through the store's refund process.
 
@@ -105,4 +105,4 @@ increases, notice is given before renewal and your consent is obtained in accord
 
 ## 8. Contact
 
-<a href="mailto:astracraft.kr@gmail.com">astracraft.kr@gmail.com</a>
+<a href="mailto:support@astracraft.kr">support@astracraft.kr</a>

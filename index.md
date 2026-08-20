@@ -36,4 +36,4 @@ permalink: /
 
 ## 문의 · Contact
 
-<a href="mailto:astracraft.kr@gmail.com">astracraft.kr@gmail.com</a>
+<a href="mailto:support@astracraft.kr">support@astracraft.kr</a>

@@ -105,7 +105,7 @@ If you obtained the Software from the Apple App Store, the following also applie
    relevant jurisdictions and that you are not located in a prohibited country.
 7. **Apple and its subsidiaries are third-party beneficiaries of this Agreement**, and upon your acceptance
    of its terms Apple has the right to enforce this Agreement against you directly.
-8. Contact: <a href="mailto:astracraft.kr@gmail.com">astracraft.kr@gmail.com</a>
+8. Contact: <a href="mailto:support@astracraft.kr">support@astracraft.kr</a>
 
 ## 11. Google Play
 
