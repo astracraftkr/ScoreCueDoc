@@ -18,6 +18,7 @@ alt: /en/business/
 | 사업자등록번호 | 032-08-03433 |
 | 통신판매업 신고번호 | 2026-경기오산-0717 |
 | 신고 기관 | 경기도 오산시 |
+| 전화번호 | <a href="tel:+8250219322092">0502-1932-2092</a> |
 | 이메일 | <a href="mailto:astracraft.kr@gmail.com">astracraft.kr@gmail.com</a> |
 
 ## 고객 문의
