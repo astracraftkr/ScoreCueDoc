@@ -163,7 +163,7 @@ such transfers, you may use the App's basic features without signing in.
 - **Crash reports (Crashlytics)**: retained under Google's policy (typically within 90 days).
 - **On-device data**: never stored on a server; removed when the App is uninstalled.
 
-## 5. Your Rights and How to Delete Your Data
+## 5. Your Rights and How to Delete Your Data {#deletion}
 
 You may request access to, correction of, deletion of, or suspension of processing of your personal
 information.
@@ -203,3 +203,26 @@ materially affect users are published at least 30 days before they take effect.
 
 Privacy enquiries and access or deletion requests:
 <a href="mailto:support@astracraft.kr">support@astracraft.kr</a>
+
+## 10. Privacy Officer
+
+Designated under Article 31 of the Korean Personal Information Protection Act.
+
+| | |
+|---|---|
+| Name | Park Hyojin (박효진) |
+| Title | Representative |
+| Phone | <a href="tel:+8250219322092">0502-1932-2092</a> (Korea) |
+| Email | <a href="mailto:support@astracraft.kr">support@astracraft.kr</a> |
+
+Enquiries, complaints, and remedy requests regarding the handling of personal data may be sent to
+the contact above and will be answered without delay.
+
+### Dispute resolution bodies
+
+Korean users may also apply to the following for mediation or advice.
+
+- Personal Information Dispute Mediation Committee — 1833-6972 / <https://www.kopico.go.kr>
+- Privacy Infringement Report Centre — 118 / <https://privacy.kisa.or.kr>
+- Supreme Prosecutors' Office, Cybercrime Investigation — 1301 / <https://www.spo.go.kr>
+- National Police Agency, Cyber Bureau — 182 / <https://ecrm.police.go.kr>
