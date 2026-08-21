@@ -225,4 +225,4 @@ Korean users may also apply to the following for mediation or advice.
 - Personal Information Dispute Mediation Committee — 1833-6972 / <https://www.kopico.go.kr>
 - Privacy Infringement Report Centre — 118 / <https://privacy.kisa.or.kr>
 - Supreme Prosecutors' Office, Cybercrime Investigation — 1301 / <https://www.spo.go.kr>
-- National Police Agency, Cyber Bureau — 182 / <https://ecrm.police.go.kr>
+- National Police Agency, Cyber Investigation Bureau — 182 / <https://ecrm.police.go.kr>
